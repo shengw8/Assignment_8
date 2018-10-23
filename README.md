@@ -17,20 +17,25 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection 
+<img src="https://github.com/shengw8/Assignment_8/blob/master/SQLI.2018-10-22%2020_51_48.gif" width="800">
 
 Vulnerability #2: Session Hijacking/Fixation
+<img src="https://github.com/shengw8/Assignment_8/blob/master/Session_Hijack.2018-10-22%2020_58_42.gif" width="800">
 
 
 ## Green
 
 Vulnerability #1: Cross-Site Scripting
+<img src="https://github.com/shengw8/Assignment_8/blob/master/XSS.2018-10-22%2021_04_52.gif" width="800">
 
 Vulnerability #2: Username Enumeration
+<img src="https://github.com/shengw8/Assignment_8/blob/master/Username_Enumeration.2018-10-22%2021_08_50.gif" width="800">
 
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
+<img src="https://github.com/shengw8/Assignment_8/blob/master/SQLI.2018-10-22%2020_51_48.gif" width="800">
 
 Vulnerability #2: __________________
 
