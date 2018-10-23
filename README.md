@@ -12,7 +12,7 @@ The six possible exploits are:
 * Cross-Site Request Forgery (CSRF)
 * Session Hijacking/Fixation
 
-Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
+Each version of the site has been given two of the six vulnerabilities. (In other words, 2020_51_48.gifall six of the exploits should be assignable to one of the sites.)
 
 ## Blue
 
@@ -35,7 +35,7 @@ Vulnerability #2: Username Enumeration
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference
-<img src="https://github.com/shengw8/Assignment_8/blob/master/SQLI.2018-10-22%2020_51_48.gif" width="800">
+<img src="https://github.com/shengw8/Assignment_8/blob/master/IDOR.2018-10-22%2021_13_51.gif" width="800">
 
 Vulnerability #2: __________________
 
