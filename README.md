@@ -37,9 +37,12 @@ Vulnerability #2: Username Enumeration
 Vulnerability #1: Insecure Direct Object Reference
 <img src="https://github.com/shengw8/Assignment_8/blob/master/IDOR.2018-10-22%2021_13_51.gif" width="800">
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-site Request Forgery
+<img src="https://github.com/shengw8/Assignment_8/blob/master/CSRF.2018-10-23%2022_52_05.gif" width="800">
 
 
 ## Notes
 
 Describe any challenges encountered while doing the work
+ 1. Writing HTML
+ 2. Spotting the difference of having wrong username and password in the inspector
